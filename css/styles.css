@@ -10,14 +10,25 @@ body {
 
 h1 {
   font-family: "Sacramento", cursive;
+  font-size: 562.5%;
+  color: #66bfbf;
+  margin: 50px auto 0 auto;
 }
 
 h2 {
   font-family: "Montserrat", sans-serif;
+  color: #66bfbf;
+  font-weight: normal;
+  line-height: 2;
 }
 
 h3 {
   font-family: "Montserrat", sans-serif;
+  color: #11999e;
+}
+
+a {
+  color: #11999e;
 }
 
 .skill-img {
@@ -48,6 +59,11 @@ h3 {
   left: 18%;
 }
 
+.bottom-cloud {
+  position: absolute;
+  right: 65%;
+}
+
 #copyright {
   margin-bottom: 0px;
 }
@@ -59,6 +75,10 @@ h3 {
 #mountain {
   padding-bottom: 2%;
 }
-.bottom-cloud {
-  position: absolute;
+
+#intro {
+  font-size: 1.5rem;
+  color: #66bfbf;
+  font-weight: normal;
+  line-height: 2;
 }
