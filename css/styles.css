@@ -84,6 +84,11 @@ a:hover {
   margin: 0% auto 4% auto;
 }
 
+#mountain {
+  position: relative;
+  top: 4px;
+}
+
 .skill-img-1 {
   width: 25%;
   border-radius: 50%;
