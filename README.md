@@ -8,5 +8,5 @@ I have got lot more to learn as part of this course, the next of which is Javasc
 
 ![Site Image 1](https://raw.githubusercontent.com/davidjosephind/CSS-MySite/main/images/Site-img-1.jpg)
 ![Site Image 2](https://raw.githubusercontent.com/davidjosephind/CSS-MySite/main/images/Site-img-2.jpg)
-![Site Image 3](https://raw.githubusercontent.com/davidjosephind/CSS-MySite/main/images/Site-img-3.jpg)
+![Site Image 3](https://raw.githubusercontent.com/davidjosephind/CSS-MySite/main/images/Site-img-6.jpg)
 ![Site Image 4](https://raw.githubusercontent.com/davidjosephind/CSS-MySite/main/images/Site-img-5.jpg)
