@@ -4,4 +4,4 @@
 
 I am currently learning Bootstrap.
 
-I have got lot more to learn as part of this course, next of which is Javascript and the Document Object Model(DOM)
+I have got lot more to learn as part of this course, the next of which is Javascript and the Document Object Model(DOM).
