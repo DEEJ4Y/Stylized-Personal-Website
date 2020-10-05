@@ -1,6 +1,6 @@
 # CSS-MySite
 
-[This website](https://davidjosephind.github.io/CSS-MySite/) is a product of what I've been learning throughout the [Web Development course](https://www.udemy.com/course/the-complete-web-development-bootcamp/) I've been taking. This particular website is reflective of what I've learnt throughout the Intermediate CSS module.
+[This website](https://davidjosephind.github.io/CSS-MySite/) is a result of what I've been learning throughout the [Web Development course](https://www.udemy.com/course/the-complete-web-development-bootcamp/) I've been taking.
 
 I am currently learning Bootstrap.
 
