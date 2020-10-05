@@ -1,11 +1,19 @@
-div {
-  background-color: #e4f9f5;
-}
-
 body {
   margin: 0;
   text-align: center;
   font-family: "Merriweather Sans", sans-serif;
+}
+
+div {
+  margin: 100px 0;
+}
+
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: grey;
+  border-width: 4px;
+  width: 3.5%;
 }
 
 h1 {
@@ -16,10 +24,10 @@ h1 {
 }
 
 h2 {
+  margin-top: 4%;
   font-family: "Montserrat", sans-serif;
   color: #66bfbf;
   font-weight: normal;
-  line-height: 2;
 }
 
 h3 {
@@ -29,24 +37,61 @@ h3 {
 
 a {
   color: #11999e;
+  text-decoration: none;
 }
 
-.skill-img {
-  width: 300px;
+.btn {
+  background-color: #66bfbf;
+  color: #eaf6f6;
+  padding: 1%;
+  margin: 20px;
+}
+
+.footer-link {
+  line-height: 2;
+  display: inline-block;
+  margin-top: 2%;
+  width: 10%;
+}
+
+.headline {
+  color: #40514e;
+  margin-bottom: 4%;
+}
+
+.skill-img-1 {
+  width: 25%;
   border-radius: 50%;
+  float: left;
+  margin-right: 30px;
+}
+
+.skill-img-2 {
+  width: 25%;
+  border-radius: 50%;
+  float: right;
+  margin-left: 30px;
+}
+
+.skill-row {
+  width: 50%;
+  display: block;
+  position: relative;
+  margin: 100px auto;
+  text-align: left;
+  line-height: 2;
 }
 
 .top-container {
-  background-color: #e4f9f5;
+  background-color: #eaf6f6;
   height: 100%;
   position: relative;
 }
 
-.middle-container {
-}
-
 .bottom-container {
   margin-bottom: 0px;
+  background-color: #66bfbf;
+  margin-top: 2%;
 }
 
 .pro {
@@ -54,7 +99,7 @@ a {
 }
 
 .top-cloud {
-  padding-top: 10%;
+  padding-top: 5%;
   position: relative;
   left: 18%;
 }
@@ -66,19 +111,17 @@ a {
 
 #copyright {
   margin-bottom: 0px;
-}
-
-#profile-pic {
-  border-radius: 50%;
-}
-
-#mountain {
   padding-bottom: 2%;
 }
 
-#intro {
+#profile-pic {
+  margin-top: 2%;
+  border-radius: 50%;
+}
+
+.intro {
   font-size: 1.5rem;
   color: #66bfbf;
   font-weight: normal;
-  line-height: 2;
+  margin: auto;
 }
