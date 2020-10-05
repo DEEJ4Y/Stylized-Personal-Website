@@ -85,6 +85,7 @@ a {
 .top-container {
   background-color: #eaf6f6;
   height: 100%;
+  margin: 0;
   position: relative;
 }
 
