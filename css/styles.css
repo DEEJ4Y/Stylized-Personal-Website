@@ -1,3 +1,14 @@
+/* --------------------------------------- Element section ---------------------------------------*/
+
+a {
+  color: #11999e;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #eaf6f6;
+}
+
 body {
   margin: 0;
   text-align: center;
@@ -35,16 +46,21 @@ h3 {
   color: #11999e;
 }
 
-a {
-  color: #11999e;
-  text-decoration: none;
+/* --------------------------------------- Class section --------------------------------------- */
+
+.bottom-cloud {
+  position: absolute;
+  right: 65%;
 }
 
-a:hover {
-  color: #eaf6f6;
+.bottom-container {
+  margin-bottom: 0px;
+  background-color: #66bfbf;
+  margin-top: 2%;
 }
 
 .btn {
+  /* ----------------------------------- Used a button generator -------------------------------*/
   background: #11cdd4;
   background-image: -webkit-linear-gradient(top, #11cdd4, #11999e);
   background-image: -moz-linear-gradient(top, #11cdd4, #11999e);
@@ -84,9 +100,19 @@ a:hover {
   margin: 0% auto 4% auto;
 }
 
-#mountain {
-  position: relative;
-  top: 4px;
+.intro {
+  font-size: 1.5rem;
+  color: #66bfbf;
+  font-weight: normal;
+  margin: auto;
+}
+
+.ph-number {
+  margin: 4% auto;
+}
+
+.pro {
+  text-decoration: underline;
 }
 
 .skill-img-1 {
@@ -119,30 +145,13 @@ a:hover {
   position: relative;
 }
 
-.bottom-container {
-  margin-bottom: 0px;
-  background-color: #66bfbf;
-  margin-top: 2%;
-}
-
-.pro {
-  text-decoration: underline;
-}
-
 .top-cloud {
   padding-top: 5%;
   position: relative;
   left: 18%;
 }
 
-.bottom-cloud {
-  position: absolute;
-  right: 65%;
-}
-
-.ph-number {
-  margin: 4% auto;
-}
+/* --------------------------------------- ID section --------------------------------------- */
 
 #copyright {
   margin-bottom: 0px;
@@ -151,13 +160,11 @@ a:hover {
   font-size: 0.75rem;
 }
 
-#profile-pic {
-  border-radius: 50%;
+#mountain {
+  position: relative;
+  top: 4px;
 }
 
-.intro {
-  font-size: 1.5rem;
-  color: #66bfbf;
-  font-weight: normal;
-  margin: auto;
+#profile-pic {
+  border-radius: 50%;
 }
