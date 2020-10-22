@@ -1,6 +1,6 @@
 # Stylized Personal Website
 
-[This website](https://davidjosephind.github.io/Stylized-Personal-Website/) is a result of what I've been learning throughout the [Web Development course](https://www.udemy.com/course/the-complete-web-development-bootcamp/) I've been taking.
+[This website](https://davidjosephind.github.io/Stylized-Personal-Website/) is a result of what I've been learning throughout the [Web Development course](https://www.udemy.com/course/the-complete-web-development-bootcamp/) I've been taking. This project was a part of the CSS modules in the course.
 
 ![Site Image 1](https://raw.githubusercontent.com/davidjosephind/CSS-MySite/main/images/Site-img-1.jpg)
 ![Site Image 2](https://raw.githubusercontent.com/davidjosephind/CSS-MySite/main/images/Site-img-2.jpg)
