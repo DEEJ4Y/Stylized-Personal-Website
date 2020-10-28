@@ -4,7 +4,7 @@
 
 The goal of this project was to understand and learn to use CSS to create websites that look great.
 
-### The things I learnt to use during the course of this project were:
+## What I learnt
 
 - Inline, Internal and External CSS
 - Debugging CSS code
