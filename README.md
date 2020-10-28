@@ -21,9 +21,4 @@ The goal of this project was to understand and learn to use CSS to create websit
 - Font styling in websites
 - CSS float and clear
 
-Some snaps of the website are below.
-
-![Site Image 1](https://raw.githubusercontent.com/davidjosephind/CSS-MySite/main/images/Site-img-1.jpg)
-![Site Image 2](https://raw.githubusercontent.com/davidjosephind/CSS-MySite/main/images/Site-img-2.jpg)
-![Site Image 3](https://raw.githubusercontent.com/davidjosephind/CSS-MySite/main/images/Site-img-6.jpg)
-![Site Image 4](https://raw.githubusercontent.com/davidjosephind/CSS-MySite/main/images/Site-img-5.jpg)
+[Click here](https://davidjosephind.github.io/Stylized-Personal-Website/) to see the website.
